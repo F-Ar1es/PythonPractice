@@ -2,7 +2,7 @@
 
 ## 华氏温度转换为摄氏温度
 
-[example](/PythonPractice/control_flow/codes/task1.py)
+[example](../control_flow/codes/task1.py)
 
 输入华氏温度转换为摄氏温度输出。
 
